@@ -1,0 +1,927 @@
+The TFS Exclusive Edition Version: (0.5.X.SERIES - -) - Codename: (Crying Damson)
+Compiled with GNU C++ version 5.4.0 20160609 for arch 64 Bits at Oct 12 2021 09:46:13
+
+A server developed by: Mark Samman and The Forgotten Server Developers.
+Visit our forums for updates, support, and resources: otland.net
+
+>> Loading config (config.lua)
+>> Opening logs
+>> Loading Password encryption:
+>>> Using (SHA1) encryption ... (done).
+>> Loading RSA key
+>> Starting SQL connection
+>> Running Database Manager
+> Optimizing table: house_data... [success]
+>> Loading groups
+>> Loading items (OTB)
+>> Loading items (XML)
+>> Loading outfits
+>> Loading quests
+>> Loading raids
+>> Loading vocations
+>> Loading chat channels
+>> Loading experience stages
+>> Loading mods:
+
+>> Loading Demon Oak Lib V0.70 REV: 1 (June 26 2012) By Darkhaos, edited by Printer (Contact: http://otland.net/members/darkhaos/)
+
+[!] -> Checking demon oak lib...
+[!] ->  0 problems loaded in 0.00174 seconds.
+
+[!] ->  Demon Oak Lib loaded in 0.001841 seconds.
+
+>>> Loading custommonsters.xml ... (done).
+>>> Loading fragremover.xml ... (done), but disabled.
+>>> (1) mods were disabled.
+>> Loading script systems:
+>>> Loading weapons... [Warning - Weapons::registerEvent] Duplicate registered item with id: 0
+(done).
+>>> Preparing weapons... (done).
+>>> Loading spells... (done).
+>>> Loading actions... (done).
+>>> Loading talkactions... (done).
+>>> Loading movements... [Warning - MoveEvents::addEvent] Duplicate move event found: 1973
+[Warning - MoveEvents::addEvent] Duplicate move event found: 1974
+(done).
+>>> Loading creaturescripts... (done).
+>>> Loading globalscripts... (done).
+>> Loading monsters
+>> Loading map and spawns:
+>>> Map size: 33536x33024.
+>>> Map descriptions: - "Saved with Remere's Map Editor 3.0 BETA" - ""Duplicate uniqueId 2187
+Duplicate uniqueId 9532
+
+>>> Loading time: 21.081 seconds.
+[Warning - Houses::loadFromXml] House entry not set for:  (1)
+[Warning - Houses::loadFromXml] House entry not set for:  (3)
+[Warning - Houses::loadFromXml] House entry not set for:  (489)
+[Warning - Houses::loadFromXml] House entry not set for:  (2406)
+>>> Parsing time: 3.823 seconds.
+>>> Synchronization time: 39.854 seconds.
+>>> Unserialization time: 0.085 seconds.
+>> Checking world type: Open PvP
+>> Starting to dominate the world... done.
+>> Initializing game state and binding services:
+
+>> Everything smells good, server is starting up...
+>> ANTIGUERA WAR server Online!
+
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.921 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.926 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Something is moving in the depths of the sea around Liberty Bay".
+> Broadcasted message: "Numerous Quara fins have been sighted in the seas around Liberty Bay.".
+> Broadcasted message: "Quara emerged from the sea to attack Liberty Bay.".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.218 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.104 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (37 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.079 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.883 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.827 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.946 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.888 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.865 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.917 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Sightings of undead, west of Darashia! Imminent invasion is suspected!".
+> Broadcasted message: "The undead are attacking Darashia!".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.942 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.911 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.961 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.895 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.965 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.026 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.877 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "The ancient volcano on Goroma slowly becomes active once again.".
+> Broadcasted message: "There is an evil presence at the volcano of Goroma.".
+> Broadcasted message: "Evil Cultists have called an ancient evil into the volcano on Goroma. Beware of its power mortals.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.131 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.006 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.943 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.964 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+Pato Malo has logged in.
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> CLEAN: Removed 13 items from 8 tiles (8 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+
+[Error - TalkAction Interface] 
+data/talkactions/scripts/createitem.lua:onSay
+Description: 
+(luaDoCreateItemEx) Item not found
+
+[Error - TalkAction Interface] 
+data/talkactions/scripts/createitem.lua:onSay
+Description: 
+(luaDoPlayerAddItemEx) Item not found
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.099 seconds using binary house storage.
+Pato Malo has logged out.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.907 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.113 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.96 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 4 items from 10 tiles (10 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.846 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.002 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.904 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.983 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.844 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Pirates are launching a surprise attack on Liberty Bay! Take care, they seem to be everywhere.".
+> Broadcasted message: "Pirates have invaded the city.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.017 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.114 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.134 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.131 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.889 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.931 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.124 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Beware of Diblis The Fair!".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.276 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+Google has logged in.
+Krivuu has logged in.
+Krivuu has logged out.
+Krivuu has logged in.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+Google has logged out.
+Staff Broko has logged in.
+Staff Broko has logged out.
+Staff Broko has logged in.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+Krivuu has logged out.
+
+[Error - TalkAction Interface] 
+data/talkactions/scripts/createitem.lua:onSay
+Description: 
+(luaDoCreateItemEx) Item not found
+
+[Error - TalkAction Interface] 
+data/talkactions/scripts/createitem.lua:onSay
+Description: 
+(luaDoPlayerAddItemEx) Item not found
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.1 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 1 item from 6 tiles (6 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+Bruttus has logged in.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+GoDAntigo has logged in.
+Bruttus has logged out.
+> Saving server...
+> SAVE: Complete in 1.101 seconds using binary house storage.
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.235 seconds using binary house storage.
+GoDAntigo has logged out.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.09 seconds using binary house storage.
+Staff Broko has logged out.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+Krivuu has logged in.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.007 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Krivuu broadcasted message: "oi lindos".
+> Krivuu broadcasted message: "onic?".
+> Krivuu broadcasted message: "crime?".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+Krivuu has logged out.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.865 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> CLEAN: Removed 11 items from 630 tiles (630 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.955 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.489 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.793 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.925 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.996 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+Pato Malo has logged in.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+Pato Malo has logged out.
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 7 tiles (7 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "The seals on Ferumbras old cidatel are glowing. Prepare for HIS return mortals.".
+> Broadcasted message: "Ferumbras return is at hand. The Edron Academy calls for Heroes to fight that evil.".
+> Broadcasted message: "Ferumbras has returned to his citadel once more. Stop him before its too late.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.875 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.828 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.962 seconds using binary house storage.
+GoDAntigo has logged in.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.004 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 1 item from 3 tiles (3 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.114 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+GoDAntigo has logged out.
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.897 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.888 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.786 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.065 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.85 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.891 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.858 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.817 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.005 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+GoDAntigo has logged in.
+GoDAntigo has logged out.
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.847 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.822 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+Staff Broko has logged in.
+GoDAntigo has logged in.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.13 seconds using binary house storage.
+GoDAntigo has logged out.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.985 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> CLEAN: Removed 6 items from 31 tiles (31 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.29 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Beware of Demodras!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.202 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+Staff Broko has logged out.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.867 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.877 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.811 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Orshabaal's minions are working on his return to the World. LEAVE Edron at once, mortals.".
+> Broadcasted message: "Orshabaal is about to make his way into the mortal realm. Run for your lives!".
+> Broadcasted message: "Orshabaal has been summoned from hell to plague the lands of mortals once again.".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.965 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.929 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.765 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.837 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.88 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.908 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.905 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.912 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.936 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.854 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.807 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.934 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.809 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.831 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.901 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Rat Plague in Thais!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.026 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.925 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.871 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.908 seconds using binary house storage.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Beware of Sir Valorcrest!".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.876 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.873 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.086 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.834 seconds using binary house storage.
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Beware of Arachir the Ancient One!".
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.909 seconds using binary house storage.
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "An ancient evil is awakening in the mines beneath Hrodmir.".
+> Broadcasted message: "Demonic entities are entering the mortal realm in the Hrodmir mines.".
+> Broadcasted message: "The demonic master has revealed itself in the mines of Hrodmir.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.988 seconds using binary house storage.
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".
+> Broadcasted message: "Informação: Nosso servidor recebe updates diarios, temos uma equipe trabalhando sempre.".
+GoDAntigo has logged in.
+> Broadcasted message: "Informação: Estamos prontos para receber 400+ players.".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 1.329 seconds using binary house storage.
+> Broadcasted message: "Informação: Vocações e spells balanceadas para uma war agradável.".
+> Broadcasted message: "Informação: Por favor, pense duas vezes antes de matar um dog. Eles só querem ser seu amigo!".
+GoDAntigo has logged out.
+> Broadcasted message: "Informação: Por favor, reporte bugs e criaturas faltando/npcs/quests no forum de nosso servidor com imagens e descrição.".
+> Broadcasted message: "Game map cleaning within 30 seconds, please pick up your items!".
+> Broadcasted message: "Server save within 120 seconds, please mind it may freeze!".
+> CLEAN: Removed 0 items from 0 tiles (0 were marked) in 0 seconds.
+> Broadcasted message: "Game map cleaned, next clean in 4 hours.".
+> Broadcasted message: "Server save within 30 seconds, please mind it may freeze!".
+> Saving server...
+> SAVE: Complete in 0.921 seconds using binary house storage.
+> Broadcasted message: "Informação: Somos um dos únicos servidores a oferecer quest log em diversas quests como: poi, inquisition e banshee.".
+> Broadcasted message: "Informação: Sistema de task system 100% disponível para você.".

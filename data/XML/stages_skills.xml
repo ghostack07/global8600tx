@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stages>
+	<world id="0" multiplier="1">
+		<!-- fist -->
+		<skill name="fist">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="400"/>
+			<stage minlevel="61" maxlevel="70" multiplier="700"/>
+			<stage minlevel="71" maxlevel="80" multiplier="800"/>
+			<stage minlevel="81" maxlevel="255" multiplier="30"/>
+		</skill>		
+		
+		<!-- club -->
+		<skill name="club">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="400"/>
+			<stage minlevel="61" maxlevel="70" multiplier="700"/>
+			<stage minlevel="71" maxlevel="80" multiplier="800"/>
+			<stage minlevel="81" maxlevel="255" multiplier="30"/>
+		</skill>
+				
+		<!-- sword -->
+		<skill name="sword">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="400"/>
+			<stage minlevel="61" maxlevel="70" multiplier="700"/>
+			<stage minlevel="71" maxlevel="80" multiplier="800"/>
+			<stage minlevel="81" maxlevel="255" multiplier="30"/>
+		</skill>
+						
+		<!-- axe -->
+		<skill name="axe">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="400"/>
+			<stage minlevel="61" maxlevel="70" multiplier="700"/>
+			<stage minlevel="71" maxlevel="80" multiplier="800"/>
+			<stage minlevel="81" maxlevel="255" multiplier="30"/>
+		</skill>
+						
+		<!-- distance -->
+		<skill name="distance">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="400"/>
+			<stage minlevel="61" maxlevel="70" multiplier="700"/>
+			<stage minlevel="71" maxlevel="80" multiplier="800"/>
+			<stage minlevel="81" maxlevel="255" multiplier="30"/>
+		</skill>
+						
+		<!-- shield -->
+		<skill name="shield">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="400"/>
+			<stage minlevel="61" maxlevel="70" multiplier="700"/>
+			<stage minlevel="71" maxlevel="80" multiplier="800"/>
+			<stage minlevel="81" maxlevel="255" multiplier="30"/>
+		</skill>
+		
+		<!-- fishing -->
+		<skill name="fishing">
+			<stage minlevel="0" maxlevel="254" multiplier="50"/>
+		</skill>
+					
+		<!-- magiclevel -->
+		<skill name="magiclevel">
+			<stage minlevel="0" maxlevel="30" multiplier="100"/>
+			<stage minlevel="31" maxlevel="50" multiplier="200"/>
+			<stage minlevel="51" maxlevel="60" multiplier="100"/>
+			<stage minlevel="61" maxlevel="70" multiplier="50"/>
+			<stage minlevel="71" maxlevel="80" multiplier="30"/>
+			<stage minlevel="81" maxlevel="156" multiplier="15"/>
+		</skill>
+		
+	</world>
+</stages>

@@ -1,0 +1,4172 @@
+[19/4/2022 19:53:57] /ghost
+[19/4/2022 20:9:54] /t
+[19/4/2022 20:20:25] /goto lord kycas
+[19/4/2022 20:22:22] /t
+[20/4/2022 9:6:13] /r
+[20/4/2022 9:15:7] /reload movements
+[20/4/2022 9:15:55] /reload movements
+[20/4/2022 9:15:58] /r
+[20/4/2022 9:23:59] /shutdown
+[20/4/2022 9:28:48] /reload movements
+[20/4/2022 9:29:13] /bc Estou fazendo algumas correções... O servidor ficará reiniciando 1 pouco
+[20/4/2022 9:29:14] /bc Estou fazendo algumas correções... O servidor ficará reiniciando 1 pouco
+[20/4/2022 9:29:15] /bc Estou fazendo algumas correções... O servidor ficará reiniciando 1 pouco
+[20/4/2022 9:29:15] /bc Estou fazendo algumas correções... O servidor ficará reiniciando 1 pouco
+[20/4/2022 9:29:56] /shutdown
+[20/4/2022 9:38:1] /reload creatureevents
+[20/4/2022 9:40:27] /reload creaturescripts
+[20/4/2022 9:40:38] /reload creaturescripts
+[20/4/2022 9:44:49] /reload creaturescripts
+[20/4/2022 9:45:12] /t
+[20/4/2022 9:45:13] /t
+[20/4/2022 9:45:58] /town 2
+[20/4/2022 9:45:59] /town 1
+[20/4/2022 9:46:0] /town 3
+[20/4/2022 9:46:1] /town 4
+[20/4/2022 9:46:2] /town 5
+[20/4/2022 9:46:3] /town 6
+[20/4/2022 9:46:3] /town 2
+[20/4/2022 9:46:28] /reload creaturescripts
+[20/4/2022 9:50:57] /reload creaturescripts
+[20/4/2022 10:7:49] /i ferumbras hat
+[20/4/2022 10:12:11] /i 2358
+[20/4/2022 10:12:18] /town 4
+[20/4/2022 10:12:20] /town 
+[20/4/2022 10:12:21] /town 3
+[20/4/2022 10:12:22] /town 
+[20/4/2022 10:12:27] /town 5
+[20/4/2022 10:12:28] /town venore
+[20/4/2022 10:12:33] /town 7
+[20/4/2022 10:12:39] /t
+[20/4/2022 10:13:35] /down
+[20/4/2022 10:14:21] /up
+[20/4/2022 10:14:25] /down
+[20/4/2022 10:14:31] /up
+[20/4/2022 10:14:37] /a 5
+[20/4/2022 10:14:37] /a 5
+[20/4/2022 10:14:38] /a 5
+[20/4/2022 10:14:39] /a 5
+[20/4/2022 10:14:43] /up
+[20/4/2022 10:16:4] /i 2474
+[20/4/2022 10:21:19] /town 1
+[20/4/2022 10:22:58] /t
+[20/4/2022 10:23:2] /t
+[20/4/2022 11:22:45] /i 8985
+[20/4/2022 11:26:15] /shutdown
+[20/4/2022 11:28:18] /m trainer
+[20/4/2022 11:28:26] /n Training Monk
+[20/4/2022 11:28:30] /m Training Monk
+[20/4/2022 11:28:36] /i vip wand
+[20/4/2022 11:31:47] /reload talkactions
+[20/4/2022 11:34:24] /shutdown
+[20/4/2022 11:36:25] /m training monk
+[20/4/2022 11:39:5] /shutdown
+[20/4/2022 11:41:7] /m training monk
+[20/4/2022 11:42:31] /shutdown
+[20/4/2022 11:45:10] /m training monk
+[20/4/2022 11:46:9] /i stamina doll
+[20/4/2022 11:46:24] /i vip ed shield
+[20/4/2022 11:46:41] /i vip star
+[20/4/2022 11:50:44] /i vip sword
+[20/4/2022 12:22:20] /town 15
+[20/4/2022 12:22:21] /town 14
+[20/4/2022 12:22:22] /town 13
+[20/4/2022 12:22:23] /town 12
+[20/4/2022 12:22:23] /town 11
+[20/4/2022 12:22:24] /town 10
+[20/4/2022 12:22:26] /town 09
+[20/4/2022 12:22:27] /town 9
+[20/4/2022 12:22:28] /town 8
+[20/4/2022 12:22:29] /town 7
+[20/4/2022 12:22:29] /town 6
+[20/4/2022 12:22:30] /town 5
+[20/4/2022 12:22:31] /town 4
+[20/4/2022 12:22:32] /town 3
+[20/4/2022 12:22:32] /town 2
+[20/4/2022 12:22:33] /town 1
+[20/4/2022 12:22:35] /t
+[20/4/2022 12:22:41] /town 2
+[20/4/2022 12:22:47] /t
+[20/4/2022 23:11:2] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:9] /goto gedeao arrogante
+[20/4/2022 23:11:17] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:17] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:17] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:17] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:18] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:18] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:18] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:18] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:18] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:19] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:19] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:19] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:19] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:19] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:19] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:20] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:20] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:20] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:20] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:20] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:20] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:32] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:33] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:33] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:33] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:33] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:34] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:34] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:34] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:34] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:34] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:35] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:35] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:35] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:36] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:36] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:36] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:36] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:37] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:37] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:37] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:37] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:38] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:38] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:38] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:39] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:39] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:53] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:53] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:53] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:54] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:54] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:55] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:58] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:58] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:59] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:11:59] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:12:0] /addskill Gedeao Arrogante, magic level
+[20/4/2022 23:12:19] /m dragon lord
+[20/4/2022 23:12:32] /m dragon lord
+[20/4/2022 23:12:32] /m dragon lord
+[20/4/2022 23:12:32] /m dragon lord
+[20/4/2022 23:12:33] /m dragon lord
+[20/4/2022 23:12:33] /m dragon lord
+[20/4/2022 23:12:33] /m dragon lord
+[20/4/2022 23:12:33] /m dragon lord
+[20/4/2022 23:12:34] /m dragon lord
+[20/4/2022 23:12:34] /m dragon lord
+[20/4/2022 23:12:34] /m dragon lord
+[20/4/2022 23:12:34] /m dragon lord
+[20/4/2022 23:12:35] /m dragon lord
+[20/4/2022 23:12:35] /m dragon lord
+[20/4/2022 23:12:35] /m dragon lord
+[20/4/2022 23:12:35] /m dragon lord
+[20/4/2022 23:12:36] /m dragon lord
+[20/4/2022 23:12:37] /m dragon lord
+[20/4/2022 23:12:37] /m dragon lord
+[20/4/2022 23:12:38] /m dragon lord
+[20/4/2022 23:12:38] /m dragon lord
+[20/4/2022 23:12:38] /m dragon lord
+[20/4/2022 23:12:39] /m dragon lord
+[20/4/2022 23:12:39] /m dragon lord
+[20/4/2022 23:12:39] /m dragon lord
+[20/4/2022 23:12:40] /m dragon lord
+[20/4/2022 23:12:40] /m dragon lord
+[20/4/2022 23:12:40] /m dragon lord
+[20/4/2022 23:12:40] /m dragon lord
+[20/4/2022 23:12:41] /m dragon lord
+[20/4/2022 23:12:41] /m dragon lord
+[20/4/2022 23:12:41] /m dragon lord
+[20/4/2022 23:12:42] /m dragon lord
+[20/4/2022 23:12:42] /m dragon lord
+[20/4/2022 23:12:43] /m dragon lord
+[20/4/2022 23:12:43] /m dragon lord
+[20/4/2022 23:12:43] /m dragon lord
+[20/4/2022 23:12:43] /m dragon lord
+[20/4/2022 23:12:44] /m dragon lord
+[20/4/2022 23:12:44] /m dragon lord
+[20/4/2022 23:12:44] /m dragon lord
+[20/4/2022 23:12:44] /m dragon lord
+[20/4/2022 23:12:45] /m dragon lord
+[20/4/2022 23:12:45] /m dragon lord
+[20/4/2022 23:12:45] /m dragon lord
+[20/4/2022 23:12:45] /m dragon lord
+[20/4/2022 23:12:46] /m dragon lord
+[20/4/2022 23:12:46] /m dragon lord
+[20/4/2022 23:12:46] /m dragon lord
+[20/4/2022 23:12:46] /m dragon lord
+[20/4/2022 23:12:47] /m dragon lord
+[20/4/2022 23:12:47] /m dragon lord
+[20/4/2022 23:12:47] /m dragon lord
+[20/4/2022 23:12:47] /m dragon lord
+[20/4/2022 23:12:47] /m dragon lord
+[20/4/2022 23:12:48] /m dragon lord
+[20/4/2022 23:12:48] /m dragon lord
+[20/4/2022 23:12:48] /m dragon lord
+[20/4/2022 23:12:48] /m dragon lord
+[20/4/2022 23:12:48] /m dragon lord
+[20/4/2022 23:12:49] /m dragon lord
+[20/4/2022 23:12:49] /m dragon lord
+[20/4/2022 23:12:49] /m dragon lord
+[20/4/2022 23:12:49] /m dragon lord
+[20/4/2022 23:12:49] /m dragon lord
+[20/4/2022 23:12:50] /m dragon lord
+[20/4/2022 23:12:50] /m dragon lord
+[20/4/2022 23:12:50] /m dragon lord
+[20/4/2022 23:12:50] /m dragon lord
+[20/4/2022 23:12:50] /m dragon lord
+[20/4/2022 23:12:51] /m dragon lord
+[20/4/2022 23:12:51] /m dragon lord
+[20/4/2022 23:12:51] /m dragon lord
+[20/4/2022 23:12:51] /m dragon lord
+[20/4/2022 23:12:51] /m dragon lord
+[20/4/2022 23:12:52] /m dragon lord
+[20/4/2022 23:12:52] /m dragon lord
+[20/4/2022 23:12:52] /m dragon lord
+[20/4/2022 23:12:52] /m dragon lord
+[20/4/2022 23:12:52] /m dragon lord
+[20/4/2022 23:12:53] /m dragon lord
+[20/4/2022 23:12:53] /m dragon lord
+[20/4/2022 23:13:1] /m dragon lord
+[20/4/2022 23:13:1] /m dragon lord
+[20/4/2022 23:13:2] /m dragon lord
+[20/4/2022 23:13:2] /m dragon lord
+[20/4/2022 23:13:2] /m dragon lord
+[20/4/2022 23:13:2] /m dragon lord
+[20/4/2022 23:13:2] /m dragon lord
+[20/4/2022 23:13:2] /m dragon lord
+[20/4/2022 23:13:3] /m dragon lord
+[20/4/2022 23:13:3] /m dragon lord
+[20/4/2022 23:13:3] /m dragon lord
+[20/4/2022 23:13:3] /m dragon lord
+[20/4/2022 23:13:3] /m dragon lord
+[20/4/2022 23:13:3] /m dragon lord
+[20/4/2022 23:13:4] /m dragon lord
+[20/4/2022 23:13:4] /m dragon lord
+[20/4/2022 23:13:4] /m dragon lord
+[20/4/2022 23:13:4] /m dragon lord
+[20/4/2022 23:13:4] /m dragon lord
+[20/4/2022 23:13:5] /m dragon lord
+[20/4/2022 23:13:5] /m dragon lord
+[20/4/2022 23:13:5] /m dragon lord
+[20/4/2022 23:13:5] /m dragon lord
+[20/4/2022 23:13:6] /m dragon lord
+[20/4/2022 23:13:6] /m dragon lord
+[20/4/2022 23:13:6] /m dragon lord
+[20/4/2022 23:13:6] /m dragon lord
+[20/4/2022 23:13:6] /m dragon lord
+[20/4/2022 23:13:7] /m dragon lord
+[20/4/2022 23:13:7] /m dragon lord
+[20/4/2022 23:13:7] /m dragon lord
+[20/4/2022 23:13:7] /m dragon lord
+[20/4/2022 23:13:7] /m dragon lord
+[20/4/2022 23:13:8] /m dragon lord
+[20/4/2022 23:13:8] /m dragon lord
+[20/4/2022 23:13:8] /m dragon lord
+[20/4/2022 23:13:8] /m dragon lord
+[20/4/2022 23:13:8] /m dragon lord
+[20/4/2022 23:13:9] /m dragon lord
+[20/4/2022 23:13:9] /m dragon lord
+[20/4/2022 23:13:9] /m dragon lord
+[20/4/2022 23:13:9] /m dragon lord
+[20/4/2022 23:13:9] /m dragon lord
+[20/4/2022 23:13:10] /m dragon lord
+[20/4/2022 23:13:10] /m dragon lord
+[20/4/2022 23:13:10] /m dragon lord
+[20/4/2022 23:13:10] /m dragon lord
+[20/4/2022 23:13:10] /m dragon lord
+[20/4/2022 23:13:11] /m dragon lord
+[20/4/2022 23:13:11] /m dragon lord
+[20/4/2022 23:13:11] /m dragon lord
+[20/4/2022 23:13:11] /m dragon lord
+[20/4/2022 23:13:11] /m dragon lord
+[20/4/2022 23:13:12] /m dragon lord
+[20/4/2022 23:13:12] /m dragon lord
+[20/4/2022 23:13:12] /m dragon lord
+[20/4/2022 23:13:12] /m dragon lord
+[20/4/2022 23:13:12] /m dragon lord
+[20/4/2022 23:13:12] /m dragon lord
+[20/4/2022 23:13:13] /m dragon lord
+[20/4/2022 23:13:13] /m dragon lord
+[20/4/2022 23:13:13] /m dragon lord
+[20/4/2022 23:13:13] /m dragon lord
+[20/4/2022 23:13:13] /m dragon lord
+[20/4/2022 23:13:14] /m dragon lord
+[20/4/2022 23:13:14] /m dragon lord
+[20/4/2022 23:13:14] /m dragon lord
+[20/4/2022 23:13:14] /m dragon lord
+[20/4/2022 23:13:14] /m dragon lord
+[20/4/2022 23:13:15] /m dragon lord
+[20/4/2022 23:13:15] /m dragon lord
+[20/4/2022 23:13:15] /m dragon lord
+[20/4/2022 23:13:15] /m dragon lord
+[20/4/2022 23:13:16] /m dragon lord
+[20/4/2022 23:13:16] /m dragon lord
+[20/4/2022 23:13:16] /m dragon lord
+[20/4/2022 23:13:16] /m dragon lord
+[20/4/2022 23:13:16] /m dragon lord
+[20/4/2022 23:13:17] /m dragon lord
+[20/4/2022 23:13:17] /m dragon lord
+[20/4/2022 23:13:17] /m dragon lord
+[20/4/2022 23:13:17] /m dragon lord
+[20/4/2022 23:13:17] /m dragon lord
+[20/4/2022 23:13:18] /m dragon lord
+[20/4/2022 23:13:18] /m dragon lord
+[20/4/2022 23:13:18] /m dragon lord
+[20/4/2022 23:13:18] /m dragon lord
+[20/4/2022 23:13:18] /m dragon lord
+[20/4/2022 23:13:19] /m dragon lord
+[20/4/2022 23:13:19] /m dragon lord
+[20/4/2022 23:13:19] /m dragon lord
+[20/4/2022 23:13:19] /m dragon lord
+[20/4/2022 23:13:19] /m dragon lord
+[20/4/2022 23:13:20] /m dragon lord
+[20/4/2022 23:13:20] /m dragon lord
+[20/4/2022 23:13:20] /m dragon lord
+[20/4/2022 23:13:20] /m dragon lord
+[20/4/2022 23:13:21] /m dragon lord
+[20/4/2022 23:13:21] /m dragon lord
+[20/4/2022 23:13:21] /m dragon lord
+[20/4/2022 23:13:21] /m dragon lord
+[20/4/2022 23:13:21] /m dragon lord
+[20/4/2022 23:13:22] /m dragon lord
+[20/4/2022 23:13:22] /m dragon lord
+[20/4/2022 23:13:34] /m dragon lord
+[20/4/2022 23:13:34] /m dragon lord
+[20/4/2022 23:13:34] /m dragon lord
+[20/4/2022 23:13:34] /m dragon lord
+[20/4/2022 23:13:35] /m dragon lord
+[20/4/2022 23:13:35] /m dragon lord
+[20/4/2022 23:13:35] /m dragon lord
+[20/4/2022 23:13:35] /m dragon lord
+[20/4/2022 23:13:35] /m dragon lord
+[20/4/2022 23:13:35] /m dragon lord
+[20/4/2022 23:13:43] /m dragon lord
+[20/4/2022 23:13:44] /m dragon lord
+[20/4/2022 23:13:44] /m dragon lord
+[20/4/2022 23:13:44] /m dragon lord
+[20/4/2022 23:13:44] /m dragon lord
+[20/4/2022 23:13:45] /m dragon lord
+[20/4/2022 23:13:45] /m dragon lord
+[20/4/2022 23:13:45] /m dragon lord
+[20/4/2022 23:13:45] /m dragon lord
+[20/4/2022 23:13:45] /m dragon lord
+[20/4/2022 23:13:46] /m dragon lord
+[20/4/2022 23:13:46] /m dragon lord
+[20/4/2022 23:13:46] /m dragon lord
+[20/4/2022 23:13:46] /m dragon lord
+[20/4/2022 23:13:46] /m dragon lord
+[20/4/2022 23:13:47] /m dragon lord
+[20/4/2022 23:13:47] /m dragon lord
+[20/4/2022 23:13:47] /m dragon lord
+[20/4/2022 23:13:47] /m dragon lord
+[20/4/2022 23:13:47] /m dragon lord
+[20/4/2022 23:13:48] /m dragon lord
+[20/4/2022 23:13:48] /m dragon lord
+[20/4/2022 23:13:48] /m dragon lord
+[20/4/2022 23:13:48] /m dragon lord
+[20/4/2022 23:13:48] /m dragon lord
+[20/4/2022 23:13:49] /m dragon lord
+[20/4/2022 23:13:49] /m dragon lord
+[20/4/2022 23:13:49] /m dragon lord
+[20/4/2022 23:13:49] /m dragon lord
+[20/4/2022 23:13:49] /m dragon lord
+[20/4/2022 23:13:49] /m dragon lord
+[20/4/2022 23:13:50] /m dragon lord
+[20/4/2022 23:13:50] /m dragon lord
+[20/4/2022 23:13:50] /m dragon lord
+[20/4/2022 23:13:50] /m dragon lord
+[20/4/2022 23:13:50] /m dragon lord
+[20/4/2022 23:13:51] /m dragon lord
+[20/4/2022 23:13:51] /m dragon lord
+[20/4/2022 23:13:51] /m dragon lord
+[20/4/2022 23:13:51] /m dragon lord
+[20/4/2022 23:13:51] /m dragon lord
+[20/4/2022 23:13:52] /m dragon lord
+[20/4/2022 23:13:52] /m dragon lord
+[20/4/2022 23:13:52] /m dragon lord
+[20/4/2022 23:13:52] /m dragon lord
+[20/4/2022 23:13:52] /m dragon lord
+[20/4/2022 23:13:53] /m dragon lord
+[20/4/2022 23:13:53] /m dragon lord
+[20/4/2022 23:13:53] /m dragon lord
+[20/4/2022 23:13:53] /m dragon lord
+[20/4/2022 23:13:53] /m dragon lord
+[20/4/2022 23:13:53] /m dragon lord
+[20/4/2022 23:13:54] /m dragon lord
+[20/4/2022 23:14:2] /m dragon lord
+[20/4/2022 23:14:2] /m dragon lord
+[20/4/2022 23:14:3] /m dragon lord
+[20/4/2022 23:14:3] /m dragon lord
+[20/4/2022 23:14:3] /m dragon lord
+[20/4/2022 23:14:3] /m dragon lord
+[20/4/2022 23:14:3] /m dragon lord
+[20/4/2022 23:14:3] /m dragon lord
+[20/4/2022 23:14:4] /m dragon lord
+[20/4/2022 23:14:4] /m dragon lord
+[20/4/2022 23:14:4] /m dragon lord
+[20/4/2022 23:14:4] /m dragon lord
+[20/4/2022 23:14:4] /m dragon lord
+[20/4/2022 23:14:4] /m dragon lord
+[20/4/2022 23:14:5] /m dragon lord
+[20/4/2022 23:14:5] /m dragon lord
+[20/4/2022 23:14:5] /m dragon lord
+[20/4/2022 23:14:5] /m dragon lord
+[20/4/2022 23:14:5] /m dragon lord
+[20/4/2022 23:14:6] /m dragon lord
+[20/4/2022 23:14:6] /m dragon lord
+[20/4/2022 23:14:6] /m dragon lord
+[20/4/2022 23:14:6] /m dragon lord
+[20/4/2022 23:14:6] /m dragon lord
+[20/4/2022 23:14:7] /m dragon lord
+[20/4/2022 23:14:7] /m dragon lord
+[20/4/2022 23:14:7] /m dragon lord
+[20/4/2022 23:14:7] /m dragon lord
+[20/4/2022 23:14:7] /m dragon lord
+[20/4/2022 23:14:8] /m dragon lord
+[20/4/2022 23:14:26] /m infernalist
+[20/4/2022 23:14:26] /m infernalist
+[20/4/2022 23:14:26] /m infernalist
+[20/4/2022 23:14:26] /m infernalist
+[20/4/2022 23:14:26] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:14:27] /m infernalist
+[20/4/2022 23:16:27] /c gedeao arrogante
+[20/4/2022 23:16:27] /m infernalist
+[20/4/2022 23:16:28] /m infernalist
+[20/4/2022 23:16:28] /m infernalist
+[20/4/2022 23:16:28] /m infernalist
+[20/4/2022 23:16:28] /m infernalist
+[20/4/2022 23:16:28] /m infernalist
+[20/4/2022 23:16:28] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:29] /m infernalist
+[20/4/2022 23:16:30] /m infernalist
+[20/4/2022 23:16:30] /m infernalist
+[20/4/2022 23:16:30] /m infernalist
+[20/4/2022 23:16:30] /m infernalist
+[20/4/2022 23:16:30] /m infernalist
+[20/4/2022 23:16:30] /m infernalist
+[20/4/2022 23:16:31] /m infernalist
+[20/4/2022 23:16:31] /m infernalist
+[20/4/2022 23:16:31] /m infernalist
+[20/4/2022 23:16:31] /m infernalist
+[20/4/2022 23:16:31] /m infernalist
+[20/4/2022 23:16:32] /m infernalist
+[20/4/2022 23:16:32] /m infernalist
+[20/4/2022 23:16:32] /m infernalist
+[20/4/2022 23:16:32] /m infernalist
+[20/4/2022 23:16:32] /m infernalist
+[20/4/2022 23:16:32] /m infernalist
+[20/4/2022 23:16:33] /m infernalist
+[20/4/2022 23:16:33] /m infernalist
+[20/4/2022 23:16:33] /m infernalist
+[20/4/2022 23:16:33] /m infernalist
+[20/4/2022 23:16:33] /m infernalist
+[20/4/2022 23:16:34] /m infernalist
+[20/4/2022 23:16:34] /m infernalist
+[20/4/2022 23:16:34] /m infernalist
+[20/4/2022 23:16:34] /m infernalist
+[20/4/2022 23:16:34] /m infernalist
+[20/4/2022 23:16:34] /m infernalist
+[20/4/2022 23:16:35] /m infernalist
+[20/4/2022 23:16:35] /m infernalist
+[20/4/2022 23:16:35] /m infernalist
+[20/4/2022 23:16:35] /m infernalist
+[20/4/2022 23:16:35] /m infernalist
+[20/4/2022 23:16:35] /m infernalist
+[20/4/2022 23:16:36] /m infernalist
+[20/4/2022 23:16:36] /m infernalist
+[20/4/2022 23:16:36] /m infernalist
+[20/4/2022 23:16:36] /m infernalist
+[20/4/2022 23:16:36] /m infernalist
+[20/4/2022 23:16:36] /m infernalist
+[20/4/2022 23:16:37] /m infernalist
+[20/4/2022 23:16:37] /m infernalist
+[20/4/2022 23:16:37] /m infernalist
+[20/4/2022 23:16:37] /m infernalist
+[20/4/2022 23:16:37] /m infernalist
+[20/4/2022 23:16:37] /m infernalist
+[20/4/2022 23:16:38] /m infernalist
+[20/4/2022 23:16:38] /m infernalist
+[20/4/2022 23:16:38] /m infernalist
+[20/4/2022 23:16:38] /m infernalist
+[20/4/2022 23:16:38] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:39] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:40] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:41] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:42] /m infernalist
+[20/4/2022 23:16:43] /m infernalist
+[20/4/2022 23:16:43] /m infernalist
+[20/4/2022 23:16:43] /m infernalist
+[20/4/2022 23:16:43] /m infernalist
+[20/4/2022 23:16:43] /m infernalist
+[20/4/2022 23:16:43] /m infernalist
+[20/4/2022 23:16:44] /m infernalist
+[20/4/2022 23:16:44] /m infernalist
+[20/4/2022 23:16:44] /m infernalist
+[20/4/2022 23:16:44] /m infernalist
+[20/4/2022 23:16:44] /m infernalist
+[20/4/2022 23:16:45] /m infernalist
+[20/4/2022 23:16:45] /m infernalist
+[20/4/2022 23:16:45] /m infernalist
+[20/4/2022 23:16:45] /m infernalist
+[20/4/2022 23:16:45] /m infernalist
+[20/4/2022 23:16:45] /m infernalist
+[20/4/2022 23:16:46] /m infernalist
+[20/4/2022 23:16:46] /m infernalist
+[20/4/2022 23:16:46] /m infernalist
+[20/4/2022 23:16:46] /m infernalist
+[20/4/2022 23:16:46] /m infernalist
+[20/4/2022 23:16:47] /m infernalist
+[20/4/2022 23:16:47] /m infernalist
+[20/4/2022 23:16:47] /m infernalist
+[20/4/2022 23:16:47] /m infernalist
+[20/4/2022 23:16:47] /m infernalist
+[20/4/2022 23:16:48] /m infernalist
+[20/4/2022 23:16:48] /m infernalist
+[20/4/2022 23:16:48] /m infernalist
+[20/4/2022 23:16:48] /m infernalist
+[20/4/2022 23:16:48] /m infernalist
+[20/4/2022 23:16:48] /m infernalist
+[20/4/2022 23:16:49] /m infernalist
+[20/4/2022 23:16:49] /m infernalist
+[20/4/2022 23:16:49] /m infernalist
+[20/4/2022 23:16:49] /m infernalist
+[20/4/2022 23:16:49] /m infernalist
+[20/4/2022 23:16:50] /m infernalist
+[20/4/2022 23:16:50] /m infernalist
+[20/4/2022 23:16:50] /m infernalist
+[20/4/2022 23:16:50] /m infernalist
+[20/4/2022 23:16:50] /m infernalist
+[20/4/2022 23:16:51] /m infernalist
+[20/4/2022 23:16:51] /m infernalist
+[20/4/2022 23:16:51] /m infernalist
+[20/4/2022 23:16:51] /m infernalist
+[20/4/2022 23:16:51] /m infernalist
+[20/4/2022 23:16:51] /m infernalist
+[20/4/2022 23:16:52] /m infernalist
+[20/4/2022 23:16:52] /m infernalist
+[20/4/2022 23:16:52] /m infernalist
+[20/4/2022 23:16:52] /m infernalist
+[20/4/2022 23:16:52] /m infernalist
+[20/4/2022 23:16:53] /m infernalist
+[20/4/2022 23:16:53] /m infernalist
+[20/4/2022 23:16:53] /m infernalist
+[20/4/2022 23:16:53] /m infernalist
+[20/4/2022 23:16:53] /m infernalist
+[20/4/2022 23:16:54] /m infernalist
+[20/4/2022 23:16:54] /m infernalist
+[20/4/2022 23:16:54] /m infernalist
+[20/4/2022 23:16:54] /m infernalist
+[20/4/2022 23:16:54] /m infernalist
+[20/4/2022 23:16:54] /m infernalist
+[20/4/2022 23:16:55] /m infernalist
+[20/4/2022 23:16:55] /m infernalist
+[20/4/2022 23:16:55] /m infernalist
+[20/4/2022 23:16:55] /m infernalist
+[20/4/2022 23:16:55] /m infernalist
+[20/4/2022 23:16:56] /m infernalist
+[20/4/2022 23:16:56] /m infernalist
+[20/4/2022 23:16:56] /m infernalist
+[20/4/2022 23:16:56] /m infernalist
+[20/4/2022 23:16:56] /m infernalist
+[20/4/2022 23:16:57] /m infernalist
+[20/4/2022 23:16:57] /m infernalist
+[20/4/2022 23:16:57] /m infernalist
+[20/4/2022 23:16:57] /m infernalist
+[20/4/2022 23:16:57] /m infernalist
+[20/4/2022 23:16:58] /m infernalist
+[20/4/2022 23:16:58] /m infernalist
+[20/4/2022 23:16:58] /m infernalist
+[20/4/2022 23:16:58] /m infernalist
+[20/4/2022 23:16:58] /m infernalist
+[20/4/2022 23:16:59] /m infernalist
+[20/4/2022 23:16:59] /m infernalist
+[20/4/2022 23:16:59] /m infernalist
+[20/4/2022 23:16:59] /m infernalist
+[20/4/2022 23:16:59] /m infernalist
+[20/4/2022 23:17:0] /m infernalist
+[20/4/2022 23:17:0] /m infernalist
+[20/4/2022 23:17:0] /m infernalist
+[20/4/2022 23:17:0] /m infernalist
+[20/4/2022 23:17:0] /m infernalist
+[20/4/2022 23:17:1] /m infernalist
+[20/4/2022 23:17:1] /m infernalist
+[20/4/2022 23:17:1] /m infernalist
+[20/4/2022 23:17:1] /m infernalist
+[20/4/2022 23:17:1] /m infernalist
+[20/4/2022 23:17:2] /m infernalist
+[20/4/2022 23:17:2] /m infernalist
+[20/4/2022 23:17:2] /m infernalist
+[20/4/2022 23:17:2] /m infernalist
+[20/4/2022 23:17:2] /m infernalist
+[20/4/2022 23:17:2] /m infernalist
+[20/4/2022 23:17:3] /m infernalist
+[20/4/2022 23:17:3] /m infernalist
+[20/4/2022 23:17:3] /m infernalist
+[20/4/2022 23:17:3] /m infernalist
+[20/4/2022 23:17:4] /m infernalist
+[20/4/2022 23:17:4] /m infernalist
+[20/4/2022 23:17:4] /m infernalist
+[20/4/2022 23:17:4] /m infernalist
+[20/4/2022 23:17:4] /m infernalist
+[20/4/2022 23:17:5] /m infernalist
+[20/4/2022 23:17:5] /m infernalist
+[20/4/2022 23:17:5] /m infernalist
+[20/4/2022 23:17:5] /m infernalist
+[20/4/2022 23:17:5] /m infernalist
+[20/4/2022 23:17:6] /m infernalist
+[20/4/2022 23:17:6] /m infernalist
+[20/4/2022 23:17:6] /m infernalist
+[20/4/2022 23:17:6] /m infernalist
+[20/4/2022 23:17:6] /m infernalist
+[20/4/2022 23:17:6] /m infernalist
+[20/4/2022 23:17:7] /m infernalist
+[20/4/2022 23:17:7] /m infernalist
+[20/4/2022 23:17:7] /m infernalist
+[20/4/2022 23:17:7] /m infernalist
+[20/4/2022 23:17:7] /m infernalist
+[20/4/2022 23:17:8] /m infernalist
+[20/4/2022 23:17:8] /m infernalist
+[20/4/2022 23:17:8] /m infernalist
+[20/4/2022 23:17:8] /m infernalist
+[20/4/2022 23:17:8] /m infernalist
+[20/4/2022 23:17:9] /m infernalist
+[20/4/2022 23:17:9] /m infernalist
+[20/4/2022 23:17:9] /m infernalist
+[20/4/2022 23:17:9] /m infernalist
+[20/4/2022 23:17:9] /m infernalist
+[20/4/2022 23:17:10] /m infernalist
+[20/4/2022 23:17:10] /m infernalist
+[20/4/2022 23:17:10] /m infernalist
+[20/4/2022 23:17:10] /m infernalist
+[20/4/2022 23:17:10] /m infernalist
+[20/4/2022 23:17:11] /m infernalist
+[20/4/2022 23:17:11] /m infernalist
+[20/4/2022 23:17:11] /m infernalist
+[20/4/2022 23:17:11] /m infernalist
+[20/4/2022 23:17:11] /m infernalist
+[20/4/2022 23:17:12] /m infernalist
+[20/4/2022 23:17:12] /m infernalist
+[20/4/2022 23:17:12] /m infernalist
+[20/4/2022 23:17:12] /m infernalist
+[20/4/2022 23:17:13] /m infernalist
+[20/4/2022 23:17:13] /m infernalist
+[20/4/2022 23:17:13] /m infernalist
+[20/4/2022 23:17:13] /m infernalist
+[20/4/2022 23:17:13] /m infernalist
+[20/4/2022 23:17:13] /m infernalist
+[20/4/2022 23:17:14] /m infernalist
+[20/4/2022 23:17:14] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:23] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:24] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:25] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:26] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:27] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:28] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:29] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:30] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:31] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:32] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:33] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:34] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:35] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:36] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:37] /m infernalist
+[20/4/2022 23:17:40] /m infernalist
+[20/4/2022 23:17:40] /m infernalist
+[20/4/2022 23:17:40] /m infernalist
+[20/4/2022 23:17:40] /m infernalist
+[20/4/2022 23:17:40] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:41] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:42] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:43] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:44] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:45] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:46] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:47] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:48] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:49] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:50] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:51] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:52] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:53] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:54] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:55] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:56] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:57] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:58] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:17:59] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:0] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:1] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:2] /m infernalist
+[20/4/2022 23:18:21] /clean
+[20/4/2022 23:18:31] /t
+[21/4/2022 0:21:37] /goto Gedeao Arrogante
+[21/4/2022 0:21:47] /i 2554
+[21/4/2022 0:22:5] /t
+[21/4/2022 0:59:36] /ghost
+[24/4/2022 14:20:7] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:8] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:9] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:10] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:11] /a
+[24/4/2022 14:20:12] /a
+[24/4/2022 14:20:12] /a
+[24/4/2022 14:20:12] /a
+[24/4/2022 14:20:12] /a
+[24/4/2022 14:20:15] /a
+[24/4/2022 14:20:15] /a
+[24/4/2022 14:20:16] /a
+[24/4/2022 14:20:16] /a
+[24/4/2022 14:20:16] /a
+[24/4/2022 14:20:16] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:17] /a
+[24/4/2022 14:20:18] /a
+[24/4/2022 14:20:18] /a
+[24/4/2022 14:45:19] /t
+[24/4/2022 14:49:26] /t
+[24/4/2022 14:49:33] /goto STAFF Hermes
+[24/4/2022 14:49:47] /ghost
+[24/4/2022 14:49:52] /goto STAFF Hermes
+[24/4/2022 14:50:17] /goto STAFF Hermes
+[24/4/2022 14:52:6] /t
+[24/4/2022 14:52:12] /ghost
+[25/4/2022 1:56:59] /owner STAFF Bonex 
+[25/4/2022 2:3:55] /town carlin
+[25/4/2022 2:4:5] /town venore
+[25/4/2022 2:4:23] /town thais
+[25/4/2022 2:4:26] /town thais
+[25/4/2022 2:47:7] /shutdown
+[25/4/2022 2:50:46] /town venore
+[25/4/2022 2:50:51] /town carlin
+[25/4/2022 2:51:1] /town thais
+[25/4/2022 2:53:2] /shutdown
+[25/4/2022 2:58:18] /reload movements
+[25/4/2022 2:59:50] /shutdown
+[25/4/2022 3:8:13] /reload talkactions
+[25/4/2022 3:8:25] /reload talkactions
+[25/4/2022 3:22:57] /reload npcs
+[25/4/2022 3:23:6] /reload npcs
+[25/4/2022 3:23:13] /i special coin
+[25/4/2022 3:23:19] /i crystal coin
+[25/4/2022 3:23:19] /i crystal coin
+[25/4/2022 3:23:20] /i crystal coin
+[25/4/2022 3:23:20] /i crystal coin
+[25/4/2022 3:23:22] /i backpack
+[25/4/2022 3:23:24] /i backpack
+[25/4/2022 3:23:24] /i backpack
+[25/4/2022 3:28:53] /closeserver
+[25/4/2022 3:29:23] /openserver
+[25/4/2022 3:29:25] /shutdown
+[25/4/2022 8:48:50] /closeserver
+[25/4/2022 11:35:59] /ghost
+[25/4/2022 12:18:23] /goto owinn
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:42] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:43] /a
+[25/4/2022 12:18:44] /a
+[25/4/2022 12:36:54] /goto hermes
+[25/4/2022 12:36:57] /goto hermes
+[25/4/2022 12:37:10] /goto staff hermes
+[25/4/2022 12:41:52] /a
+[25/4/2022 12:41:52] /a
+[25/4/2022 12:41:53] /a
+[25/4/2022 12:41:53] /a
+[25/4/2022 12:41:53] /a
+[25/4/2022 12:41:58] /r
+[25/4/2022 12:42:3] /r
+[25/4/2022 12:44:47] /t
+[25/4/2022 12:45:22] /c owiin
+[25/4/2022 12:45:35] /c owinn
+[25/4/2022 12:45:51] /a
+[25/4/2022 12:45:51] /a
+[25/4/2022 12:45:51] /a
+[25/4/2022 12:45:59] /a
+[25/4/2022 12:46:38] /a
+[25/4/2022 13:2:42] /a
+[25/4/2022 13:2:42] /a
+[25/4/2022 13:2:42] /a
+[25/4/2022 13:2:42] /a
+[25/4/2022 13:2:43] /a
+[25/4/2022 13:2:43] /a
+[25/4/2022 13:2:43] /a
+[25/4/2022 13:2:43] /a
+[25/4/2022 13:2:43] /a
+[25/4/2022 13:2:43] /a
+[25/4/2022 13:2:44] /a
+[25/4/2022 13:2:44] /a
+[25/4/2022 13:2:44] /a
+[25/4/2022 13:2:44] /a
+[25/4/2022 13:2:44] /a
+[25/4/2022 13:2:45] /a
+[25/4/2022 13:2:45] /a
+[25/4/2022 13:2:45] /a
+[25/4/2022 13:2:45] /a
+[25/4/2022 13:2:45] /a
+[25/4/2022 13:2:46] /a
+[25/4/2022 13:2:46] /a
+[25/4/2022 13:2:46] /a
+[25/4/2022 13:2:46] /a
+[25/4/2022 13:2:46] /a
+[25/4/2022 13:2:47] /a
+[25/4/2022 13:2:47] /a
+[25/4/2022 13:2:47] /a
+[25/4/2022 13:2:47] /a
+[25/4/2022 13:2:47] /a
+[25/4/2022 13:2:47] /a
+[25/4/2022 13:2:48] /a
+[25/4/2022 13:2:48] /a
+[25/4/2022 13:2:48] /a
+[25/4/2022 13:2:48] /a
+[25/4/2022 13:2:48] /a
+[25/4/2022 13:2:49] /a
+[25/4/2022 13:2:51] /a
+[25/4/2022 13:2:51] /a
+[25/4/2022 13:2:52] /a
+[25/4/2022 13:2:52] /a
+[25/4/2022 13:2:56] /a
+[25/4/2022 13:2:57] /a
+[25/4/2022 13:2:57] /a
+[25/4/2022 13:2:57] /a
+[25/4/2022 13:2:57] /a
+[25/4/2022 13:2:57] /a
+[25/4/2022 13:2:58] /a
+[25/4/2022 13:2:58] /a
+[25/4/2022 13:2:58] /a
+[25/4/2022 13:2:58] /a
+[25/4/2022 13:3:49] /t
+[25/4/2022 14:20:39] /ghost
+[25/4/2022 14:20:58] /a
+[25/4/2022 14:20:58] /a
+[25/4/2022 14:20:58] /a
+[25/4/2022 14:20:59] /a
+[25/4/2022 14:20:59] /a
+[25/4/2022 14:20:59] /a
+[25/4/2022 14:20:59] /a
+[25/4/2022 14:20:59] /a
+[25/4/2022 14:21:0] /a
+[25/4/2022 14:21:0] /a
+[25/4/2022 14:21:0] /a
+[25/4/2022 14:21:0] /a
+[25/4/2022 14:21:0] /a
+[25/4/2022 14:21:0] /a
+[25/4/2022 14:21:1] /a
+[25/4/2022 14:21:1] /a
+[25/4/2022 14:21:10] /a
+[25/4/2022 14:21:11] /a
+[25/4/2022 14:21:11] /a
+[25/4/2022 14:21:11] /a
+[25/4/2022 14:21:25] /a
+[25/4/2022 14:21:25] /a
+[25/4/2022 14:21:25] /a
+[25/4/2022 14:21:25] /a
+[25/4/2022 14:21:26] /a
+[25/4/2022 14:21:26] /a
+[25/4/2022 14:21:26] /a
+[25/4/2022 14:21:26] /a
+[25/4/2022 14:21:27] /a
+[25/4/2022 14:21:27] /a
+[25/4/2022 14:21:27] /a
+[25/4/2022 14:21:27] /a
+[25/4/2022 15:15:2] /t
+[25/4/2022 18:3:12] /t
+[25/4/2022 18:3:23] /ghost
+[25/4/2022 18:3:25] /ghost
+[25/4/2022 18:13:8] /c thor de asgard
+[25/4/2022 18:16:48] /goto Luva De Pedrero
+[25/4/2022 18:16:57] /goto Luva De Pedrero
+[25/4/2022 18:17:3] /i 2160
+[25/4/2022 18:17:9] /i 2160
+[25/4/2022 18:17:33] /i 2160
+[25/4/2022 18:17:36] /i 2160
+[25/4/2022 18:17:41] /t
+[25/4/2022 18:32:33] /goto Liwiziew
+[25/4/2022 18:32:39] /i 2160
+[25/4/2022 18:32:44] /t
+[25/4/2022 18:33:20] /goto Lord Quejim
+[25/4/2022 18:33:51] /t
+[25/4/2022 18:58:5] /goto Rush
+[25/4/2022 18:58:11] /goto Rush
+[25/4/2022 18:58:40] /i 2160
+[25/4/2022 19:2:30] /c Fulano Picafina
+[25/4/2022 19:3:6] /b ssd
+[25/4/2022 19:4:42] /b IREI REINICIAR O SV POR 2 MINUTOS PRA CABAR COM LAG E OS ATAQUE DOS TROUXA QUE TAO ATACANDO SV
+[25/4/2022 19:9:39] /t
+[25/4/2022 19:10:10] /b SERVER ON COM TRAINER REGULADOS E LAG TAMBEM E VAO GANHAR MAIS 100 PONTOS TODOS
+[25/4/2022 19:11:41] /b TODOS OS BUG SERAO RESOLVIDO ATE 00:00 FIQUEM TRANQUILOS
+[25/4/2022 19:34:19] /c lord kycas
+[25/4/2022 19:35:20] /t
+[25/4/2022 19:42:46] /ghost
+[25/4/2022 19:47:7] /ghost
+[25/4/2022 19:47:16] /goto elder pedro
+[25/4/2022 19:57:38] /c Qrytghkaszxk
+[25/4/2022 20:20:15] /ghost
+[25/4/2022 20:20:40] /i 2160
+[25/4/2022 20:21:40] /ghost
+[25/4/2022 20:21:59] /i 2160
+[25/4/2022 20:22:9] /i 2160
+[25/4/2022 20:24:55] /c axis
+[25/4/2022 20:27:18] /goto caruso returns
+[25/4/2022 20:27:34] /t
+[25/4/2022 20:28:31] /goto caruso returns
+[25/4/2022 20:28:54] /t
+[25/4/2022 20:33:25] /goto Juampi Locura
+[25/4/2022 20:33:31] /t
+[25/4/2022 20:33:48] /c Juampi Locura
+[25/4/2022 20:34:25] /t
+[25/4/2022 21:1:10] /goto gedeao arrogante
+[25/4/2022 21:1:19] /i 2160
+[25/4/2022 21:1:59] /c gedeao arrogante
+[25/4/2022 21:2:7] /t
+[25/4/2022 21:25:56] /goto staff hermers
+[25/4/2022 21:26:0] /goto staff hermes
+[25/4/2022 21:26:3] /goto staff hermes
+[25/4/2022 21:41:15] /t
+[25/4/2022 21:44:18] /t
+[25/4/2022 21:45:25] /goto caruso returns
+[25/4/2022 21:45:50] /t
+[25/4/2022 22:5:40] /t
+[25/4/2022 22:5:54] /goto Caruso Returns
+[25/4/2022 22:8:52] /a
+[25/4/2022 22:8:52] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:53] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:54] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:55] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:56] /a
+[25/4/2022 22:8:57] /a
+[25/4/2022 22:8:57] /a
+[25/4/2022 22:8:57] /a
+[25/4/2022 22:9:0] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:1] /a
+[25/4/2022 22:9:2] /a
+[25/4/2022 22:9:2] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:9:3] /a
+[25/4/2022 22:12:6] /goto vicent xamus
+[25/4/2022 22:12:17] /ghost
+[25/4/2022 22:12:48] /t
+[25/4/2022 22:12:52] /ghost
+[25/4/2022 22:24:21] /t
+[25/4/2022 23:17:39] /b BOA NOITE SS AS 4 DA MANHÃ COM NOVOS UPDATES E RESOLUÇÃO DE PROBLEMAS
+[26/4/2022 8:49:10] /goto Lord Kycas
+[26/4/2022 8:49:30] /t
+[26/4/2022 10:27:26] /b BOM DIA TROPA 
+[26/4/2022 10:36:21] /c Spirit
+[26/4/2022 10:41:23] /goto Spirit
+[26/4/2022 10:41:44] /ghost
+[26/4/2022 10:45:57] /t
+[26/4/2022 10:46:18] /ghost
+[26/4/2022 11:3:10] /goto Spirit
+[26/4/2022 11:11:55] /t
+[26/4/2022 11:13:48] /goto energy
+[26/4/2022 11:13:54] /goto energy
+[26/4/2022 11:14:1] /i 2160
+[26/4/2022 11:14:11] /t
+[26/4/2022 11:16:34] /goto lord kycas
+[26/4/2022 11:16:39] /t
+[26/4/2022 11:22:32] /c Owinn
+[26/4/2022 11:28:52] /c Owinn
+[26/4/2022 11:28:56] /c Owinn
+[26/4/2022 11:29:16] /ghost
+[26/4/2022 11:31:24] /ghost
+[26/4/2022 11:31:28] /c Owinn
+[26/4/2022 11:31:31] /ghost
+[26/4/2022 12:5:17] /t
+[26/4/2022 12:11:20] /addskill distance, Lord Kycas
+[26/4/2022 12:11:25] /addskill distance, Lord Kycas
+[26/4/2022 12:13:45] /addskill lord kycas
+[26/4/2022 12:13:48] /addskill lord kycas
+[26/4/2022 12:14:15] /addskill distance, Lord Kycas = + 100
+[26/4/2022 12:14:17] /addskill distance, Lord Kycas = + 100
+[26/4/2022 12:22:18] /i 5907
+[26/4/2022 12:29:36] /goto lord kycas
+[26/4/2022 12:29:54] /m demon
+[26/4/2022 12:30:54] /goto raio
+[26/4/2022 12:30:59] /goto Raio
+[26/4/2022 12:31:6] /goto Lord Kycas
+[26/4/2022 12:31:15] /ghost
+[26/4/2022 12:31:34] /goto Birynight
+[26/4/2022 12:31:42] /goto Lord Kycas
+[26/4/2022 12:31:45] /goto Birynight
+[26/4/2022 12:31:51] /c Lord Kycas
+[26/4/2022 12:31:59] /t
+[26/4/2022 13:50:52] /c Vicent Xamus
+[26/4/2022 14:7:25] /i 8858
+[26/4/2022 16:15:58] /ghost
+[26/4/2022 16:15:59] /ghost
+[26/4/2022 17:7:50] /clean
+[26/4/2022 17:8:7] /goto ferumbras
+[26/4/2022 19:15:13] /ghost
+[26/4/2022 19:19:48] /c STAFF Savix
+[26/4/2022 19:19:52] /c STAFF Savix
+[26/4/2022 19:21:56] /c Twezgt
+[26/4/2022 19:25:26] /ghost
+[26/4/2022 19:27:23] /ghost
+[26/4/2022 19:27:25] /c Twezgt
+[26/4/2022 20:37:55] /goto Birynight
+[26/4/2022 20:38:7] /c lord kycas
+[26/4/2022 20:38:14] /t
+[27/4/2022 0:24:13] /ghost
+[27/4/2022 11:58:23] /goto Gedeao Arrogante
+[27/4/2022 11:58:34] /ghost
+[27/4/2022 11:58:41] /i 2160
+[27/4/2022 11:58:45] /i 2160
+[27/4/2022 11:58:50] /i 2160
+[27/4/2022 11:58:55] /i 2160
+[27/4/2022 11:58:59] /i 2160
+[27/4/2022 11:59:8] /ghost
+[27/4/2022 20:16:19] /goto Peixinho Na Brasa
+[27/4/2022 20:16:56] /goto STAFF Owinn
+[27/4/2022 20:17:1] /goto STAFF Owinn
+[27/4/2022 20:17:8] /ghost
+[27/4/2022 20:19:26] /t
+[27/4/2022 20:19:33] /ghost
+[28/4/2022 12:33:31] /goto uhtred
+[28/4/2022 12:33:40] /i 2160
+[28/4/2022 12:33:42] /goto uhtred
+[28/4/2022 12:34:50] /goto staff owinn
+[28/4/2022 12:35:0] /a
+[28/4/2022 12:35:3] /a
+[28/4/2022 12:35:3] /a
+[28/4/2022 12:35:4] /a
+[28/4/2022 12:35:4] /a
+[28/4/2022 12:35:4] /a
+[28/4/2022 12:35:8] /a
+[28/4/2022 12:35:8] /a
+[28/4/2022 12:35:9] /a
+[28/4/2022 12:35:9] /a
+[28/4/2022 12:35:9] /a
+[28/4/2022 12:35:14] /ghost
+[28/4/2022 12:35:17] /a
+[28/4/2022 12:35:23] /ghost
+[29/4/2022 0:32:24] /b BOA NOITE ADM ON ATE 3
+[29/4/2022 10:22:37] /i 268
+[29/4/2022 10:22:48] /i 7620
+[29/4/2022 10:30:13] /i 7618
+[29/4/2022 11:50:31] /c Peixinho Na Brasa
+[29/4/2022 12:1:3] /c Peixinho Na Brasa
+[29/4/2022 12:1:25] /a
+[29/4/2022 12:1:25] /a
+[29/4/2022 12:1:25] /a
+[29/4/2022 12:1:25] /a
+[29/4/2022 12:1:25] /a
+[29/4/2022 12:1:26] /a
+[29/4/2022 12:1:26] /a
+[29/4/2022 12:1:26] /a
+[29/4/2022 12:1:26] /a
+[29/4/2022 12:1:26] /a
+[29/4/2022 12:1:27] /a
+[29/4/2022 12:1:27] /a
+[29/4/2022 12:1:27] /a
+[29/4/2022 12:1:37] /a
+[29/4/2022 12:1:37] /a
+[29/4/2022 12:1:37] /a
+[29/4/2022 12:1:37] /a
+[29/4/2022 12:1:38] /a
+[29/4/2022 12:1:38] /a
+[29/4/2022 12:1:38] /a
+[29/4/2022 12:1:38] /a
+[29/4/2022 12:1:38] /a
+[29/4/2022 12:1:39] /a
+[29/4/2022 12:1:39] /a
+[29/4/2022 12:1:39] /a
+[29/4/2022 12:1:39] /a
+[29/4/2022 12:1:39] /a
+[29/4/2022 12:1:40] /a
+[29/4/2022 12:1:40] /a
+[29/4/2022 12:1:40] /a
+[29/4/2022 12:1:40] /a
+[29/4/2022 12:1:41] /a
+[29/4/2022 12:1:41] /a
+[29/4/2022 12:1:41] /a
+[29/4/2022 12:1:41] /a
+[29/4/2022 12:1:41] /a
+[29/4/2022 13:46:8] /goto Axis
+[29/4/2022 13:47:7] /goto Shanshuk
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:21] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:22] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:23] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:24] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:25] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:26] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:27] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:28] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:29] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:30] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:31] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:32] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:33] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:34] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:35] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:36] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:37] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:38] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:39] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:40] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:41] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:42] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:43] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:44] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:45] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:46] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:47] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:48] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:55:49] /a
+[29/4/2022 17:56:9] /a
+[29/4/2022 17:56:9] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:10] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:11] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:12] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:13] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:14] /a
+[29/4/2022 17:56:16] /a
+[29/4/2022 17:56:16] /a
+[29/4/2022 17:56:16] /a
+[29/4/2022 17:56:16] /a
+[29/4/2022 17:56:16] /a
+[29/4/2022 17:56:16] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:56:17] /a
+[29/4/2022 17:58:16] /ghost
+[29/4/2022 17:58:18] /ghost
+[29/4/2022 19:46:57] /c xivas
+[29/4/2022 19:47:2] /c xivas
+[29/4/2022 19:47:4] /c xivas
+[29/4/2022 19:47:6] /c xivas
+[29/4/2022 19:47:7] /c xivas
+[29/4/2022 19:47:12] /c xivas
+[29/4/2022 19:47:15] /c xivas
+[29/4/2022 19:47:16] /c xivas
+[29/4/2022 19:47:18] /c xivas
+[29/4/2022 19:47:20] /c xivas
+[29/4/2022 19:47:21] /c xivas
+[29/4/2022 19:47:22] /c xivas
+[29/4/2022 19:47:23] /c xivas
+[29/4/2022 19:47:24] /c xivas
+[29/4/2022 19:47:24] /c xivas
+[29/4/2022 19:47:25] /c xivas
+[29/4/2022 19:47:25] /c xivas
+[29/4/2022 19:47:26] /c xivas
+[29/4/2022 19:47:26] /c xivas
+[29/4/2022 19:47:27] /c xivas
+[29/4/2022 19:47:33] /c xivas
+[29/4/2022 19:47:41] /c xivas
+[29/4/2022 19:47:42] /c xivas
+[29/4/2022 19:47:46] /c xivas
+[30/4/2022 14:22:26] /ban Ariiel Motafuma
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:41] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:42] /a
+[30/4/2022 22:53:45] /a
+[30/4/2022 22:53:45] /a
+[30/4/2022 22:53:45] /a
+[30/4/2022 22:53:45] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:46] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:47] /a
+[30/4/2022 22:53:48] /a
+[30/4/2022 22:53:48] /a
+[30/4/2022 22:53:52] /a
+[30/4/2022 22:53:53] /a
+[30/4/2022 22:53:53] /a
+[30/4/2022 22:53:53] /a
+[30/4/2022 22:53:54] /a
+[30/4/2022 22:54:14] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:15] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:16] /a
+[30/4/2022 22:54:55] /a
+[30/4/2022 22:54:55] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:56] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:57] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:58] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:54:59] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:0] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:1] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:2] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:3] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:4] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:5] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:6] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:7] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:8] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:9] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:10] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:11] /a
+[30/4/2022 22:55:12] /a
+[30/4/2022 22:55:12] /a
+[30/4/2022 22:55:12] /a
+[30/4/2022 22:55:12] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:13] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:14] /a
+[30/4/2022 22:55:18] /a
+[30/4/2022 22:55:19] /a
+[30/4/2022 22:55:19] /a
+[30/4/2022 22:55:19] /a
+[30/4/2022 22:55:19] /a
+[30/4/2022 22:55:19] /a
+[30/4/2022 22:55:19] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:20] /a
+[30/4/2022 22:55:21] /a
+[30/4/2022 22:55:21] /a
+[30/4/2022 22:55:21] /a
+[30/4/2022 22:55:21] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:22] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:23] /a
+[30/4/2022 22:55:25] /a
+[30/4/2022 22:55:26] /a
+[30/4/2022 22:55:26] /a
+[30/4/2022 22:55:26] /a
+[30/4/2022 22:55:26] /a
+[30/4/2022 22:55:26] /a
+[30/4/2022 22:55:26] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:27] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:28] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:29] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:30] /a
+[30/4/2022 22:55:32] /a
+[30/4/2022 22:55:33] /a
+[30/4/2022 22:55:33] /a
+[30/4/2022 22:55:33] /a
+[30/4/2022 22:55:33] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:34] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:35] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:36] /a
+[30/4/2022 22:55:48] /a
+[30/4/2022 22:55:49] /a
+[30/4/2022 22:55:49] /a
+[30/4/2022 22:55:49] /a
+[30/4/2022 22:55:49] /a
+[30/4/2022 22:55:49] /a
+[30/4/2022 22:55:50] /a
+[30/4/2022 22:55:50] /a
+[30/4/2022 22:55:50] /a
+[30/4/2022 22:55:50] /a
+[30/4/2022 22:55:50] /a
+[30/4/2022 22:55:51] /a
+[30/4/2022 22:56:19] /c raio
+[30/4/2022 22:56:45] /c tiro de holy
+[30/4/2022 22:56:57] /c raio
+[30/4/2022 22:57:7] /c tiro de holy
+[30/4/2022 22:57:28] /c tiro de holy
+[30/4/2022 22:57:29] /c raio
+[30/4/2022 22:57:52] /c raio
+[30/4/2022 22:57:54] /c tiro de holy
+[30/4/2022 22:58:9] /c tiro de holy/t
+[30/4/2022 22:58:12] /t
+[30/4/2022 22:59:2] /goto tiro de holy
+[30/4/2022 22:59:8] /goto tiro de holy
+[30/4/2022 22:59:15] /goto tiro de holy
+[30/4/2022 22:59:17] /goto tiro de holy
+[30/4/2022 22:59:20] /goto tiro de holy
+[30/4/2022 22:59:30] /i 2268
+[30/4/2022 22:59:36] /i 2268
+[30/4/2022 22:59:37] /i 2268
+[30/4/2022 22:59:39] /goto tiro de holy
+[30/4/2022 22:59:47] /i 2268
+[30/4/2022 23:11:18] /goto staff owinn]
+[30/4/2022 23:11:20] /goto staff owinn
+[3/5/2022 13:36:26] /closeserver

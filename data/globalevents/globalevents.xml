@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GLOBAL 8.60 | CHAITOSOFT - DESENVOLVEDORES OPEN TIBIA --> 
+<!-- ACOMPANHE AS ATUALIZACOES: http://www.chaitosoft.com/changelog/global860 | REPORTAR ERRO: http://www.chaitosoft.com/bugtracker -->
+<globalevents>
+
+<!-- war anti entrosa -->
+	<globalevent name="citys_war_checks" interval="60000" event="script" value="entrosa/citys_war.lua"/>
+	<globalevent name="citys_war_shutdown" type="shutdown" event="script" value="entrosa/citys_war.lua"/>
+	
+	<globalevent name="save" interval="32000000" event="script" value="save.lua"/>
+	<globalevent name="init" type="startup" event="script" value="init.lua"/>
+	<globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
+	<globalevent name="record" type="record" event="script" value="record.lua"/>
+	<globalevent name="information" interval="1000000" event="script" value="autobroadcast.lua"/>
+	<globalevent name="shop" interval="10000" script="shop.lua"/>
+	<globalevent name="raids" interval="60000" event="script" value="raid.lua"/>	
+	
+	<!-- Cast System by ELF -->
+	<globalevent name="viewers" interval="10000" event="script" value="viewers.lua"/>
+
+</globalevents>

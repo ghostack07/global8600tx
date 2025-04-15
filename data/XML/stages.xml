@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GLOBAL 8.60 | CHAITOSOFT - DESENVOLVEDORES OPEN TIBIA --> 
+<!-- ACOMPANHE AS ATUALIZACOES: http://www.chaitosoft.com/changelog/global860 | REPORTAR ERRO: http://www.chaitosoft.com/bugtracker -->
+<stages>
+	<world id="0" multiplier="1">	
+		<stage minlevel="1" maxlevel="30" multiplier="30"/>
+		<stage minlevel="31" maxlevel="40" multiplier="20"/>
+		<stage minlevel="41" maxlevel="50" multiplier="15"/>
+		<stage minlevel="51" maxlevel="60" multiplier="10"/>
+		<stage minlevel="61" maxlevel="70" multiplier="8"/>
+		<stage minlevel="71" maxlevel="80" multiplier="5"/>
+		<stage minlevel="81" maxlevel="90" multiplier="4"/>
+		<stage minlevel="91" maxlevel="100" multiplier="3"/>
+		<stage minlevel="101" maxlevel="110" multiplier="2"/>
+		<stage minlevel="111" maxlevel="140" multiplier="1"/>
+		<stage minlevel="141" maxlevel="160" multiplier="0.7"/>
+		<stage minlevel="161" maxlevel="180" multiplier="0.5"/>
+		<stage minlevel="181" maxlevel="999" multiplier="0.3"/>
+	</world>
+</stages>
