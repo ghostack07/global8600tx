@@ -4,7 +4,7 @@
 <talkactions>
 
 <talkaction log="yes" words="!citywar;/citywar" event="script" value="entrosa/war_Anti_Entrosa.lua"/>
-	
+	<talkaction words="!pz" script="pz_timer.lua" />
 	<!-- Gods -->
 	<talkaction log="yes" words="/attr" access="5" event="function" value="thingProporties"/>
 	<talkaction log="yes" words="/serverdiag" access="5" event="function" value="diagnostics"/>
@@ -81,7 +81,7 @@
 	<talkaction words="!serverinfo;/serverinfo" event="script" value="serverinfo.lua"/>
 	<talkaction words="!commands;/commands" event="script" value="commands.lua"/>
 	<talkaction words="!changender;!changesex;/changesex" event="script" value="changesex.lua"/>
-	<talkaction words="!pz" script="pz.lua" />
+	
 
 
 	<!-- Houses -->

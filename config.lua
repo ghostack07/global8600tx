@@ -1,9 +1,9 @@
 sqlType = "mysql"
-sqlHost = "localhost"
+sqlHost = ""
 sqlPort = 3306
 sqlUser = "root"
-sqlPass="Global8738291aa"
-sqlDatabase = "otserv"
+sqlPass=""
+sqlDatabase = ""
 sqlFile = ""
 sqlKeepAlive = 0
 mysqlReadTimeout = 10
@@ -98,7 +98,7 @@ optionalWarAttackableAlly = false
 
 
 worldId = 0
-ip = '189.1.172.133' 
+ip = 'localhost' 
 bindOnlyGlobalAddress = false
 loginPort = 7171
 gamePort = "7172"
@@ -110,7 +110,7 @@ motd = "Obrigado por se conectar, esperamos que tenha um bom jogo!"
 displayOnOrOffAtCharlist = false
 onePlayerOnlinePerAccount = true
 allowClones = 0
-serverName = "Server One Lunar"
+serverName = "Server"
 loginMessage = "Espero que sua jornada no servidor seja uma constante alegria.!"
 statusTimeout = 5 * 60 * 1000
 replaceKickOnLogin = true

@@ -3,6 +3,11 @@
 <!-- ACOMPANHE AS ATUALIZACOES: http://www.chaitosoft.com/changelog/global860 | REPORTAR ERRO: http://www.chaitosoft.com/bugtracker -->
 <creaturescripts>
 
+	<event type="kill" name="SaveKillTime" script="save_kill_time.lua"/>
+	<event type="attack" name="PzOnAttack" script="pz_on_attack.lua"/>
+
+
+	
 <!-- CityWar -->
 	<event type="login" name="War_Cytis_Login" event="script" value="entrosa/citys_war.lua"/>
 	<event type="logout" name="War_Cytis_Logout" event="script" value="entrosa/citys_war.lua"/>
