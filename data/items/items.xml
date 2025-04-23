@@ -21600,4 +21600,20 @@
 		<attribute key="duration" value="600"/>
 		<attribute key="showduration" value="1"/>
 	</item>
+	<item id="12687" article="a" name="Scroll Bless Semanal Tipo 1">
+		<attribute key="weight" value="90"/>
+		<attribute key="description" value="Com essa bless voce nao perde seus items, e não precisa comprar a blessa da inqui no npc Henricus"/>
+	</item>
+	<item id="12688" article="a" name="Scroll Bless Semanal Tipo 2">
+		<attribute key="weight" value="90"/>
+		<attribute key="description" value="Com essa bless voce nao perde seus items, e não precisa comprar a blessa da inqui no npc Henricus"/>
+	</item>
+	<item id="12685" article="a" name="Scroll Bless Mensal Tipo 1">
+		<attribute key="weight" value="90"/>
+		<attribute key="description" value="Com essa bless voce nao perde seus items, e não precisa comprar a blessa da inqui no npc Henricus"/>
+	</item>
+	<item id="12686" article="a" name="Scroll Bless Mensal Tipo 2">
+		<attribute key="weight" value="90"/>
+		<attribute key="description" value="Com essa bless voce nao perde seus items, e não precisa comprar a blessa da inqui no npc Henricus"/>
+	</item>
 </items>
