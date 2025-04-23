@@ -2682,13 +2682,14 @@ bool Game::playerUseItemEx(uint32_t playerId, const Position& fromPos, int16_t f
 			std::list<Direction> listDir;
 			if(getPathToEx(player, walkToPos, listDir, 0, 1, true, true, 10))
 			{
-				Dispatcher::getInstance().addTask(createTask(boost::bind(&Game::playerAutoWalk,
-					this, player->getID(), listDir)));
+				//Dispatcher::getInstance().addTask(createTask(boost::bind(&Game::playerAutoWalk,
+					//this, player->getID(), listDir)));
 
-				SchedulerTask* task = createSchedulerTask(std::max((int32_t)SCHEDULER_MINTICKS, player->getStepDuration()),
-					boost::bind(&Game::playerUseItemEx, this, playerId, itemPos, fromStackpos, fromSpriteId, toPos, toStackpos, toSpriteId, isHotkey));
+				//SchedulerTask* task = createSchedulerTask(std::max((int32_t)SCHEDULER_MINTICKS, player->getStepDuration()),
+					//boost::bind(&Game::playerUseItemEx, this, playerId, itemPos, fromStackpos, fromSpriteId, toPos, toStackpos, toSpriteId, isHotkey));
 
-				player->setNextWalkActionTask(task);
+				//player->setNextWalkActionTask(task);
+				player->sendTextMessage("You need to walk to the item first.");
 				return true;
 			}
 
