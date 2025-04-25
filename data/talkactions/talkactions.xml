@@ -3,7 +3,7 @@
 <!-- ACOMPANHE AS ATUALIZACOES: http://www.chaitosoft.com/changelog/global860 | REPORTAR ERRO: http://www.chaitosoft.com/bugtracker -->
 <talkactions>
 
-<talkaction log="yes" words="!citywar;/citywar" event="script" value="entrosa/war_Anti_Entrosa.lua"/>
+	<talkaction log="yes" words="!citywar;/citywar" event="script" value="entrosa/war_Anti_Entrosa.lua"/>
 	<talkaction words="!pz" script="pz_timer.lua" />
 	<!-- Gods -->
 	<talkaction log="yes" words="/attr" access="5" event="function" value="thingProporties"/>
@@ -15,6 +15,8 @@
 	<talkaction log="yes" words="/shutdown" access="5" event="script" value="shutdown.lua"/>
 	<talkaction log="yes" access="5" words="/mode" event="script" value="mode.lua"/>
 	
+	<!--Config Blessings-->
+	<talkaction words="!bless" script="bless_command.lua" />
 	<!-- vip system -->
 	<talkaction log="yes" access="5" words="/installvip;/addvip;/removevip;/checkvip" event="script" value="vipaccgod.lua"/>
 	
@@ -101,7 +103,7 @@
 	<talkaction words="/tradeoff;!tradeoff" event="script" value="tradeoff.lua"/>
 
 	<talkaction words="!addon" event="script" value="addondoll.lua"/>
-    <talkaction words="!buybless;/buybless;!bless;/bless" script="bless.lua" />
+    <!-- <talkaction words="!buybless;/buybless;!bless;/bless" script="bless.lua" /> -->
 	<talkaction words="!aol;/aol" event="script" value="aol.lua"/>
     <talkaction words="/guild" script="guildcast.lua"/>
 	<talkaction filter="word" words="!go" script="custom/wars/guildchange.lua"/>

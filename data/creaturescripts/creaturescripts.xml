@@ -6,9 +6,14 @@
 	<event type="kill" name="SaveKillTime" script="save_kill_time.lua"/>
 	<event type="attack" name="PzOnAttack" script="pz_on_attack.lua"/>
 
+	<!--Config Blessings-->
+	<event type="death" name="BlessDeath" script="bless_death.lua" />
+	<event type="death" name="Bless2Death" script="bless2_death.lua"/>
+	<event type="death" name="ForceItemDrop" script="force_item_drop.lua"/>
+	<event type="preparedeath" name="Bless2PrepareDeath" script="bless2_preparedeath.lua"/>
 
 	
-<!-- CityWar -->
+	<!-- CityWar -->
 	<event type="login" name="War_Cytis_Login" event="script" value="entrosa/citys_war.lua"/>
 	<event type="logout" name="War_Cytis_Logout" event="script" value="entrosa/citys_war.lua"/>
 	<event type="death" name="War_Cytis_Death" event="script" value="entrosa/citys_war.lua"/>

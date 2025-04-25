@@ -810,17 +810,14 @@ uint16_t Player::getLookCorpse() const
 }
 
 void Player::dropLoot(Container* corpse)
-{
+{			
 	if(!corpse || lootDrop != LOOT_DROP_FULL)
 		return;
 
-	uint32_t loss = lossPercent[LOSS_CONTAINERS], start = g_config.getNumber(
-		ConfigManager::BLESS_REDUCTION_BASE), bless = getBlessings();
-	while(bless > 0 && loss > 0)
-	{
-		loss -= start;
-		start -= g_config.getNumber(ConfigManager::BLESS_REDUCTION_DECREMENT);
-		--bless;
+	uint32_t loss = lossPercent[LOSS_CONTAINERS], bless = getBlessings();
+	
+	if (bless > 5) {
+		return;
 	}
 
 	uint32_t itemLoss = (uint32_t)std::floor((5. + loss) * lossPercent[LOSS_ITEMS] / 1000.);
@@ -2455,8 +2452,10 @@ bool Player::onDeath()
 		for(int32_t i = SLOT_FIRST; ((!preventDrop || !preventLoss) && i < SLOT_LAST); ++i)
 		{
 			if(!(item = getInventoryItem((slots_t)i)) || item->isRemoved() ||
-				(g_moveEvents->hasEquipEvent(item) && !isItemAbilityEnabled((slots_t)i)))
-				continue;
+				(g_moveEvents->hasEquipEvent(item) && !isItemAbilityEnabled((slots_t)i))) {
+					continue;
+				}
+				
 
 			const ItemType& it = Item::items[item->getID()];
 			if(!it.hasAbilities())

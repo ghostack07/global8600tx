@@ -7,7 +7,11 @@
 	<action actionid="32545" event="script" value="news/quest_dp.lua"/>
 	<action actionid="32546" event="script" value="news/quest_piso.lua"/>
 
-
+	<!--Config Blessings-->
+	<action itemid="12687" script="bless_scroll.lua" />
+	<action itemid="12685" script="bless_monthly.lua"/>
+	<action itemid="12688" script="bless_type2.lua"/> <!-- scroll semanal -->
+	<action itemid="12686" script="bless_type2.lua"/> <!-- scroll mensal -->
     <!--Roullet-->
 	<action actionid="24252" script="roulette.lua"/>
 	
